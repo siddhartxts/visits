@@ -27,3 +27,7 @@ const client = redis.createClient({
  ]
 
  you have to use the webservetrr  name thing for this in here for the index .js thing 
+
+
+
+ whats with the status code 0 means all good 1,2,3 .. means something wentwrong 
